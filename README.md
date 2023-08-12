@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- I'm a student at University of Alberta currently doing a bacholers degree in Civil engineering.
+- I'm currently learning LaTeX and Haskell
+
 <!--
 **budw1n/budw1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
